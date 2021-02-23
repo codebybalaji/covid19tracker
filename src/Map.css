@@ -1,0 +1,14 @@
+.map{
+    height: inherit;
+    background-color:white;
+    padding : 1-px;
+    border-radius: 20px;
+    margin-top: 16px;
+    box-shadow : 0 0 8px -4px rgba(0, 0, 0, 0.5);
+}
+
+.map .leaftlet-container{
+    height: 500px;
+}
+
+
